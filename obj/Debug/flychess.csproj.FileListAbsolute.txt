@@ -1,0 +1,6 @@
+c:\users\huangxr\documents\visual studio 2013\Projects\flychess1\flychess\bin\Debug\flychess.exe.config
+c:\users\huangxr\documents\visual studio 2013\Projects\flychess1\flychess\bin\Debug\flychess.exe
+c:\users\huangxr\documents\visual studio 2013\Projects\flychess1\flychess\bin\Debug\flychess.pdb
+c:\users\huangxr\documents\visual studio 2013\Projects\flychess1\flychess\obj\Debug\flychess.csprojResolveAssemblyReference.cache
+c:\users\huangxr\documents\visual studio 2013\Projects\flychess1\flychess\obj\Debug\flychess.exe
+c:\users\huangxr\documents\visual studio 2013\Projects\flychess1\flychess\obj\Debug\flychess.pdb
